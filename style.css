@@ -210,4 +210,9 @@ footer {
   border: none;
   border-radius: 8px;
   background: #f67669;
+  cursor: pointer;
+}
+
+footer .button:hover {
+  background: #934c45;
 }
