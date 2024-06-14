@@ -1,0 +1,159 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #bfd7e4;
+}
+
+body,
+input,
+select,
+textarea {
+  font-family: "Poppins", sans-serif;
+}
+
+body::before {
+  content: "";
+  width: 100%;
+  height: 465px;
+  background: #293241;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+
+.page {
+  margin: auto;
+  width: 750px;
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 107px;
+}
+
+header h1 {
+  font-family: "Staatliches", sans-serif;
+  font-size: 36px;
+  color: #fff;
+  line-height: normal;
+  font-weight: 400;
+}
+
+header p {
+  color: #fff;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  width: 391px;
+  height: 46px;
+}
+
+header img {
+  width: 225px;
+  height: 100px;
+  margin-bottom: 32px;
+}
+
+form {
+  min-height: 300px;
+  border-radius: 20px 20px 0px 0px;
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+}
+
+fieldset {
+  border: none;
+}
+
+fieldset .wrapper {
+  padding: 31px 64px 64px 64px;
+}
+
+fieldset .primary-legend {
+  border-radius: 20px 20px 0px 0px;
+  background: #f67669;
+  width: 750px;
+  height: 133px;
+  color: #fff;
+  font-family: "Staatliches", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 34px;
+  padding: 50px 275px 50px 275px;
+}
+
+.input-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.input-wrapper label {
+  color: #4e4958;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  margin-bottom: 8px;
+}
+
+.input-wrapper label span {
+  margin-left: 9px;
+  color: #c1bccc;
+  font-size: 12px;
+  line-height: 20px;
+}
+
+.input-wrapper input {
+  border: 1px solid #e6e6f0;
+  border-radius: 8px;
+  background: #fafafc;
+  box-sizing: border-box;
+  height: 55px;
+  padding: 0 24px;
+  font-size: 16px;
+  line-height: 26px;
+}
+
+.input-col-2 {
+  display: flex;
+  gap: 22px;
+  margin-bottom: 15px;
+}
+
+.input-col-2 div {
+  width: 300px;
+}
+
+fieldset .input-select .fieldset-wrapper legend {
+  color: #253b51;
+  font-family: "Staatliches", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 34px;
+  border-bottom: 1px solid #e6e6f0;
+  width: 100%;
+  padding-bottom: 8px;
+  margin-top: 31px;
+  text-align: center;
+}
+
+.fieldset-wrapper label {
+  margin-top: 31px;
+}
+
+select {
+  width: 300px;
+  height: 55.529px;
+  border-radius: 8px;
+  border: 1px solid #E6E6F0;
+  background: #FAFAFC;
+}
