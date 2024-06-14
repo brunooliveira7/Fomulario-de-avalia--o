@@ -167,6 +167,7 @@ select {
 
 .checkbox-wrapper {
   position: relative;
+  margin-bottom: 5px;
 }
 
 .checkbox-wrapper label {
