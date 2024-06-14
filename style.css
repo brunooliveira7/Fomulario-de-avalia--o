@@ -112,7 +112,7 @@ fieldset .primary-legend {
   line-height: 20px;
 }
 
-.input-wrapper input {
+.input-wrapper input, .input-wrapper textarea {
   border: 1px solid #e6e6f0;
   border-radius: 8px;
   background: #fafafc;
@@ -152,8 +152,13 @@ fieldset .input-select .fieldset-wrapper legend {
 
 select {
   width: 300px;
-  height: 55.529px;
+  height: 55px;
   border-radius: 8px;
   border: 1px solid #E6E6F0;
   background: #FAFAFC;
+}
+
+.input-wrapper textarea {
+  padding: 0;
+  height: 168px;
 }
