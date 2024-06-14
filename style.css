@@ -160,13 +160,10 @@ select {
 }
 
 .input-wrapper textarea {
-  padding: 0;
-  height: 168px;
+    height: 168px;
+    padding: 10px 24px;
 }
 
-.input-wrapper textarea {
-  padding: 10px 24px;
-}
 
 .checkbox-wrapper {
   position: relative;
