@@ -64,10 +64,11 @@ header img {
 
 form {
   min-height: 300px;
-  border-radius: 20px 20px 0px 0px;
+  border-radius: 20px;
   background: #fff;
   display: flex;
   flex-direction: column;
+  margin-bottom: 392px;
 }
 
 fieldset {
@@ -160,10 +161,9 @@ select {
 }
 
 .input-wrapper textarea {
-    height: 168px;
-    padding: 10px 24px;
+  height: 168px;
+  padding: 10px 24px;
 }
-
 
 .checkbox-wrapper {
   position: relative;
@@ -194,4 +194,20 @@ select {
 
 .input-col-3 > div:nth-child(2) {
   margin-right: 10px;
+}
+
+footer {
+  padding: 0 64px 64px;
+}
+
+.button {
+  width: 622px;
+  height: 51px;
+  padding: 15px 40px;
+  font-family: "Staatliches", sans-serif;
+  color: #fff;
+  font-size: 20px;
+  border: none;
+  border-radius: 8px;
+  background: #f67669;
 }
