@@ -1,7 +1,7 @@
-<h1 align="center"> Activity Planner </h1>
+<h1 align="center"> Fomulário de avaliação de mentoria </h1>
 
 <p align="center">
-Activity Planner é planejador e organizador de atividades que pode auxiliar pessoas durante suas viagens. Site disponível em: https://brunooliveira7.github.io/Activity-Planner/
+O fomulário de avaliação de mentoria é uma ferramenta utilizada para coletar feedback, medir desempenho ou satisfação, obter dados relevantes sobre o serviço e coletar outras experiências. Site disponível em: https://brunooliveira7.github.io/Fomulario-de-avaliacao/
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@ Activity Planner é planejador e organizador de atividades que pode auxiliar pes
 </p>
 
 <p align="center">
-  <img alt="License" src="https://github.com/brunooliveira7/Activity-Planner/blob/main/assets/Layout%20Activity%20Planner.png">
+  <img alt="License" src="https://github.com/brunooliveira7/Fomulario-de-avaliacao/blob/main/images/Layout%20formul%C3%A1rio%20de%20mentoria.png">
 </p>
 
 <br>
