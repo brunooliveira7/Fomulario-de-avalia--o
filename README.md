@@ -12,7 +12,7 @@ O formulário de avaliação de mentoria é uma ferramenta utilizada para coleta
 </p>
 
 <p align="center">
-  <img alt="License" src="https://github.com/brunooliveira7/Fomulario-de-avaliacao/blob/main/images/Layout%20formul%C3%A1rio%20de%20mentoria.png">
+  <img alt="License" src="">
 </p>
 
 <br>
