@@ -22,7 +22,6 @@ O formulário de avaliação de mentoria é uma ferramenta utilizada para coleta
 Projeto desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript
 - Git e Github
 - Figma
 
