@@ -1,7 +1,7 @@
 <h1 align="center"> Fomulário de avaliação de mentoria </h1>
 
 <p align="center">
-O fomulário de avaliação de mentoria é uma ferramenta utilizada para coletar feedback, medir desempenho ou satisfação, obter dados relevantes sobre o serviço e coletar outras experiências. Site disponível em: https://brunooliveira7.github.io/Fomulario-de-avaliacao/
+O formulário de avaliação de mentoria é uma ferramenta utilizada para coletar feedback, medir desempenho ou satisfação, obter dados relevantes sobre o serviço e coletar outras experiências. Site disponível em: https://brunooliveira7.github.io/Fomulario-de-avaliacao/
 </p>
 
 <p align="center">
@@ -28,11 +28,11 @@ Projeto desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Activity Planner é um agregador na organização pessoal e roteirização de viagens.
+O formulário de avaliação de mentoria é um agregador na gestão de informação gerencial.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/I2GJTIQLPQQyT3TFiwtlfP/NLW-Journey-%E2%80%A2-Roteiro-de-Viagem-(Community)?node-id=0-1&m=dev). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/zF8CuZsMRap9irG8dZQLvp/Stage-03---Formul%C3%A1rio-avan%C3%A7ado-(Copy)?node-id=0-1&m=dev). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
